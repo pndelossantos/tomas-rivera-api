@@ -7,14 +7,16 @@ app.use(cors())
 
 const years = {
     "1996": {
+        "1996": {
         'bookTitle': "Chato's Kitchen",
         'authorName': "Gary Soto",
         'illustratorName': "Susan Guevara"
-    },
-    "1996": {
-        'bookTitle': "The Farolitos of Christmas",
-        'authorName': 'Rudolfo Anaya',
-        'illustratorName': 'Edward Gonzales' 
+        },
+        "1996": {
+            'bookTitle': "The Farolitos of Christmas",
+            'authorName': 'Rudolfo Anaya',
+            'illustratorName': 'Edward Gonzales' 
+        },
     },
     "1997": {
         'bookTitle':"In My Family/En Mi Familia",
